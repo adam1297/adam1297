@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Self-taught web developer and designer.
 ---------------------------------------
 
-I have been learning to code for more than a year now. I specialize in front-end development with projects involving ReactJS, NodeJS, and Typescript.
+I have been learning to code since summer of 2021. I specialize in front-end development with projects involving ReactJS, NodeJS, and Typescript.
 
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [this link!](http://adam1297.github.io/)
