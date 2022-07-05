@@ -12,7 +12,7 @@ I have been learning to code since summer of 2021. I specialize in front-end dev
 * 🧠  I'm learning Flutter, Webflow, and MongoDB.
 * 🤝  I'm open to collaborating on Website design, UX research, prototyping.
 * ⚡  Avid backpacker and even bigger Houston Astros fan ⚾!
-* 💡   Founder of TrekkMore (Coming soon)! 
+* 💡  Founder of TrekkMore (Coming soon)! 
 
 ### Skills
 
