@@ -9,7 +9,7 @@ I have been learning to code since summer of 2021. I specialize in front-end dev
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [this link!](http://adam1297.github.io/)
 * ✉️  You can contact me at [adamshahid6@gmail.com](mailto:adamshahid6@gmail.com)
-* 🧠  I'm learning Flutter.
+* 🧠  I'm learning Flutter, Webflow, and MongoDB.
 * 🤝  I'm open to collaborating on Website design, UX research, prototyping.
 * ⚡  Avid backpacker and even bigger Houston Astros fan ⚾!
 * 💡  Founder of TrekkMore (Coming soon)! 
